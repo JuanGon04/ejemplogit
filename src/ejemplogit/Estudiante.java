@@ -5,7 +5,7 @@
 package ejemplogit;
 
 /**
- *
+ * Esta clase es una entidad estudiante
  * @author JUAN GONZALEZ
  */
 public class Estudiante {
